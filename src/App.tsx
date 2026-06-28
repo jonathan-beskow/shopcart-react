@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import { Cart } from "./pages/cart";
-import { Layout } from "./pages/components/layout";
+import { Layout } from "./components/layout";
 import { Home } from "./pages/home";
 
 
